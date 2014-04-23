@@ -1,0 +1,24 @@
+{
+  "uuid": "014f8f7c-0f60-4e1d-ba0d-302d34ab6496",
+  "shortName": "Snow",
+  "longName": "Snow",
+  "companyName": "Leo",
+  "versionCode": 2,
+  "versionLabel": "1.0.2",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon_snow.png"
+      }
+    ]
+  }
+}
